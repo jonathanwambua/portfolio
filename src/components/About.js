@@ -8,12 +8,12 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Jonathan.
             <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
+            solutions.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I am a highly motivated individual and a Tech enthusiast 
+            having passion in Web Apps development. Over my 3 years experience, I have
+            learnt to use the right tools for each project.
           </p>
           <div className="flex justify-center">
             <a
