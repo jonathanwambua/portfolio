@@ -34,6 +34,6 @@ jobs:
       - name: Sync files to hosting
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
+          server: ftp.wambua.dev
+          username: jonathanftp@wambua.dev
           password: ${{ secrets.FTP_PASSWORD }}
