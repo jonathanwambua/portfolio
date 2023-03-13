@@ -36,4 +36,4 @@ jobs:
         with:
           server: ftp.wambua.dev
           username: jonathanftp@wambua.dev
-          password: ${{ secrets.FTP_PASSWORD }}
+          password: JsxTest2543i
