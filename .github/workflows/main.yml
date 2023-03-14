@@ -30,7 +30,6 @@ jobs:
         uses: actions/download-artifact@master
         with:
           name: My Portfolio Artifact
-          path: build/
       - name: Sync files to hosting
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
