@@ -15,10 +15,10 @@ export default function Contact() {
 
   function handleSubmit(e) {
     e.preventDefault();
-    fetch("/", {
+    fetch("https://wambua.dev/hiremeform/index.php", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "test", name, email, message }),
+      body: encode({ name, email, message }),
     })
       .then(() => alert("Message sent!"))
       .catch((error) => alert(error));
