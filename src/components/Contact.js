@@ -15,7 +15,7 @@ export default function Contact() {
 
   function handleSubmit(e) {
     e.preventDefault();
-    fetch("https://wambua.dev/hiremeform/index.php", {
+    fetch("https://jonathan.wambua.dev/hiremeform/index.php", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ name, email, message }),
