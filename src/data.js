@@ -27,18 +27,16 @@ export const projects = [
 
 export const testimonials = [
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    quote: "Jonathan is amazing! Careful and professional. He delivers high quality work, with no errors or bugs. Highly recommend!",
+    initials: "LT",
+    name: "Lucas Thernloven",
+    company: "thernloven",
   },
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    quote: "I experienced good moments to working with Jonathan, He's available for cooperation, and finished the project as fast as it was needed. I highly recommend him and looking forward to working with him in future. Life is good.",
+    initials: "RK",
+    name: "Rodgence Kagaba",
+    company: "Filamu Zetu",
   },
 ];
 

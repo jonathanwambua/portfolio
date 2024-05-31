@@ -1,0 +1,4 @@
+- update the profile picture
+- update the link on the name
+- make a different page for projects worked on
+- make a different page for blogging
