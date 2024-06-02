@@ -30,7 +30,7 @@ export default function About() {
         <div className="flex items-center justify-center lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
             className="object-cover object-center rounded-full"
-            alt="Jonathan Wambua photo with a smile"
+            alt="Jonathan Wambua with a smile"
             src="./jonathanwambua.jpg"
             width="300rem"
             height="300rem"
