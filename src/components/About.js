@@ -31,7 +31,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded-full"
             alt="Jonathan Wambua with a smile"
-            src="./jonathanwambua.jpg"
+            src="./jonathanwambua.webp"
             width="300rem"
             height="300rem"
           />
